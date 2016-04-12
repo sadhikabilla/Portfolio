@@ -1,0 +1,56 @@
+.navbar {
+  background: #CCCC99; }
+
+.navbar-default .navbar-nav > li > a {
+  color: white; }
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: white;
+  background-color: #003366; }
+
+.dp-box h1 span {
+  border-bottom: 1px dashed #003366; }
+
+.dp {
+  border: 1px solid #003366;
+  background: #eee; }
+
+#bb-first-page {
+  background: #CCCC99; }
+
+.first-page-right {
+  color: #fff; }
+
+.first-page-left {
+  background: #CCCC99;
+  color: #003366; }
+
+.page-heading {
+  border-bottom: 1px dashed #CCCC99; }
+
+.content-block {
+  border-bottom: 1px solid #e3e3e3; }
+
+.education h2 {
+  border-bottom: 1px solid #e3e3e3; }
+
+.portfolio-item {
+  border: 1px solid #e3e3e3;
+  margin-bottom: 30px;
+  background: #CCCCCC; }
+
+.panel-default > .panel-heading {
+  background-color: #CCCCCC; }
+
+#contact-map img {
+  border: 1px solid #e3e3e3; }
+
+.bb-custom-wrapper > nav a {
+  background: #003366;
+  color: #fff; }
+
+.slide-out-div {
+  background: #fff;
+  border: #003366 1px solid; }
+
+/*# sourceMappingURL=navy.css.map */

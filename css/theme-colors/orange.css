@@ -1,0 +1,56 @@
+.navbar{
+	background:#EDC568;
+}
+.navbar-default .navbar-nav > li > a{
+	color:white;
+}
+.navbar-default .navbar-nav > li > a:hover{
+	color:white;
+	background-color:#874D14;
+}
+.dp-box h1 span{
+	border-bottom:1px dashed #874D14;
+}
+.dp{
+	border:1px solid #874D14;
+	background:#eee;
+}
+#bb-first-page{
+	background:#EDC568;
+}
+.first-page-right{
+	color:#fff;
+}
+.first-page-left{
+	background:#EDC568;
+	color:#874D14;
+}
+.page-heading{
+	border-bottom:1px dashed #EDC568;
+	color:#874D14;
+}
+.education h2{
+	border-bottom:1px solid #e3e3e3;
+}
+.portfolio-item{
+	border:1px solid #e3e3e3;
+	margin-bottom: 30px;
+	background: #FEF4E2;
+}
+.panel-default > .panel-heading {
+	background-color: #FEF4E2;
+}
+#contact-map img{
+	border: 1px solid #e3e3e3;
+}
+.bb-custom-wrapper > nav a {
+	background: #874D14;
+	color: #fff;
+}
+
+
+
+.slide-out-div {
+ 	background: #fff;
+	border: #874D14 1px solid;
+}
